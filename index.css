@@ -1,0 +1,16 @@
+body{
+	background-image: url('cool-background.jpg');
+}
+
+table{
+	background-color: skyblue;
+	margin-left: 40%;
+}
+
+h2{
+	color:white;
+}
+
+input[type=text]{
+	border-radius: 10px;
+}
